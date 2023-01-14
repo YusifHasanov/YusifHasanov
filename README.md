@@ -1,3 +1,15 @@
+
+# 🚀 Full Stack web developer
+```js
+I am a full-stack developer with a passion for building responsive, user-friendly web applications using React and Redux. I have experience in C# and ASP.NET and enjoy working with these technologies to develop robust and efficient back-end systems.
+
+I am a quick learner and always strive to improve my skills. I am very excited to work on new projects and new technologies, and I am always open to new opportunities to expand my knowledge and experience.
+
+In my free time, I enjoy staying up to date with the latest developments in the web development industry and experimenting with new technologies. I am also an active member of the open-source community and enjoy contributing to open-source projects whenever possible.
+
+```
+
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Yusif.;I+am+web+developer.;I+love+Coding.;I+love+learning.;I+love+spreading+knowledge.;&center=true&width=500&height=50"></a>
 </p>
