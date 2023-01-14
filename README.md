@@ -76,7 +76,7 @@
   </a>
 </p>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{yusifhasanov}/count.svg"></p>
+
 
 ## <img src="https://media1.giphy.com/media/Q8PQ1KuarrYucCMVTJ/giphy.gif?cid=ecf05e47odgm8bs8cmb8cf1ijmfzqaeeu9fzmx6nbcv06ky2&rid=giphy.gif" width="30"> Current Projects
 
