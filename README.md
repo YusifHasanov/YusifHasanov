@@ -68,8 +68,7 @@
 </p>
 <br>
 
-[![Yusif's Activity Graph](https://activity-graph.herokuapp.com/graph?username=yusifhasanov&custom_title=Yusfif's%20Contribution%20Graph&theme=radical&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://www.linkedin.com/in/yusif-hasanov/)
-
+ 
 <p align="center">
   <a href="https://www.linkedin.com/in/yusif-hasanov/">
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusifhasanov&theme=radical&bg_color=282828&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
