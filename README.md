@@ -75,20 +75,7 @@
   </a>
 </p>
 
-
-
-## <img src="https://media1.giphy.com/media/Q8PQ1KuarrYucCMVTJ/giphy.gif?cid=ecf05e47odgm8bs8cmb8cf1ijmfzqaeeu9fzmx6nbcv06ky2&rid=giphy.gif" width="30"> Current Projects
-
-<ul>			
-	<li><i><a href="https://github.com/YusifHasanov/Course-Intro">Course Intro</a></i>:<ul><li>
-  Web page of introduction of Wanted Developers classes platform.
-  </li></ul></li>
-	<li><i><a href="https://github.com/YusifHasanov/Hubspot-clone">Hubspop Clone</a></i>:<ul><li>A
-  Created clone of <a href="https://www.hubspot.com/" target="_blank">hubspot</a> with React
-  </li></ul></li>
-
-
-</ul>
+ 
 
 
 ## My Contribution snake
