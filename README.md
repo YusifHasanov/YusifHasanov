@@ -1,12 +1,7 @@
 
 # 🚀 Full Stack web developer
 ```js
-I am a full-stack developer with a passion for building responsive, user-friendly web applications using React and Redux.
-I have experience in C# and ASP.NET and enjoy working with these technologies to develop robust and efficient back-end systems.
-I am a quick learner and always strive to improve my skills. I am very excited to work on new projects and new technologies, 
-and I am always open to new opportunities to expand my knowledge and experience.In my free time, I enjoy staying up to date with the
-latest developments in the web development industry and experimenting with new technologies. I am also an active member of the open-source 
-community and enjoy contributing to open-source projects whenever possible.
+I am a full-stack developer with a passion for building responsive, user-friendly web applications using the latest technologies. I have experience in React, Redux Toolkit, HTML, CSS, Chakra UI, TypeScript, ES6, C# and ASP.NET. I have strong skills in both front-end and back-end development, and I am able to work with a wide range of technologies to build high-quality web applications. I am experienced in creating efficient and scalable applications, I am also experienced in implementing modern design patterns and best practices for web development. I am comfortable in working with Agile methodologies and I am a proactive problem solver. I am always looking for ways to improve my skills and stay current with the latest technologies. I enjoy working with different frameworks and libraries, experimenting with new technologies, and learning new programming languages. Additionally, I am an active member of the open-source community, and I enjoy contributing to open-source projects whenever possible. In my free time, I enjoy staying up to date with the latest developments in the web development industry, learning new technologies and experimenting with new ideas. I am always open to new opportunities to expand my knowledge and experience and I am always looking for new challenges to tackle.
 
 ```
 
