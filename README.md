@@ -1,11 +1,12 @@
 
 # 🚀 Full Stack web developer
 ```js
-I am a full-stack developer with a passion for building responsive, user-friendly web applications using React and Redux. I have experience in C# and ASP.NET and enjoy working with these technologies to develop robust and efficient back-end systems.
-
-I am a quick learner and always strive to improve my skills. I am very excited to work on new projects and new technologies, and I am always open to new opportunities to expand my knowledge and experience.
-
-In my free time, I enjoy staying up to date with the latest developments in the web development industry and experimenting with new technologies. I am also an active member of the open-source community and enjoy contributing to open-source projects whenever possible.
+I am a full-stack developer with a passion for building responsive, user-friendly web applications using React and Redux.
+I have experience in C# and ASP.NET and enjoy working with these technologies to develop robust and efficient back-end systems.
+I am a quick learner and always strive to improve my skills. I am very excited to work on new projects and new technologies, 
+and I am always open to new opportunities to expand my knowledge and experience.In my free time, I enjoy staying up to date with the
+latest developments in the web development industry and experimenting with new technologies. I am also an active member of the open-source 
+community and enjoy contributing to open-source projects whenever possible.
 
 ```
 
