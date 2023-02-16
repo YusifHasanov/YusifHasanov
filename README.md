@@ -3,11 +3,13 @@
 ```js
 I am a full-stack developer with a passion for building responsive, user-friendly web applications using the latest technologies. 
 
-I have experience in React, Redux Toolkit, HTML, CSS, Chakra UI, TypeScript, ES6, Java, Spring, C# and ASP.NET. I have strong skills in both front-end and back-end 
+I have experience in React, Redux Toolkit, HTML, CSS, Chakra UI, TypeScript, ES6, Java, Spring, C# and ASP.NET. 
 
-development, and I am able to work with a wide range of technologies to build high-quality web applications. I am experienced in creating 
+I have strong skills in both front-end and back-end development, and I am able to work with a wide range of technologies 
 
-efficient and scalable applications, I am also experienced in implementing modern design patterns and best practices for web development.
+to build high-quality web applications. I am experienced in creating  efficient and scalable applications, 
+
+I am also experienced in implementing modern design patterns and best practices for web development.
 
 I am comfortable in working with Agile methodologies and I am a proactive problem solver. I am always looking for ways to improve my skills
 
