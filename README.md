@@ -49,7 +49,7 @@
 <p>
 <div align="center">
 	<a href="https://twitter.com/YusifHasanov12" rel="nofollow">
-		 <img src="https://img.shields.io/badge/JavaScript-000000.svg?style=for-the-badge&logo=javascript&logoColor=F7E017">
+	
   		<img alt="Yusif Hasannovs's Twitter" width="22px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" style="max-width: 100%;">
 	</a>
 	<a href="https://www.linkedin.com/in/yusif-hasanov/" rel="nofollow">
