@@ -48,14 +48,15 @@
 
 <p align="center">Contact me:</p>
 <p>
-<!-- <div align="center">
+<div align="center">
 	<a href="https://twitter.com/YusifHasanov12" rel="nofollow">
-  		<img alt="Yusif Hasannovs's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" style="max-width: 100%;">
+<!--   		<img alt="Yusif Hasannovs's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" style="max-width: 100%;"> -->
+		![RdPw Screen shot 2011 02 06 at 16 14 53](http://farm6.static.flickr.com/5136/5421259125_ea06d67675_o.png)
 	</a>
 	<a href="https://www.linkedin.com/in/yusif-hasanov/" rel="nofollow">
   		<img alt="Yusif Hasanovs's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width: 100%;">
 	</a>
-</div> -->
+</div>
 <div align="center">
 	<a href="https://twitter.com/YusifHasanov12" rel="nofollow">
   		<img alt="Yusif Hasannov's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" style="max-width:100%;">
