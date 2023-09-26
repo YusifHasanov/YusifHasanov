@@ -1,4 +1,3 @@
-
 # 🚀 Full Stack web developer
  
 <p align="center">
@@ -51,18 +50,9 @@
 <div align="center">
 	<a href="https://twitter.com/YusifHasanov12" rel="nofollow">
   		<img alt="Yusif Hasannovs's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" style="max-width: 100%;">
-		
 	</a>
 	<a href="https://www.linkedin.com/in/yusif-hasanov/" rel="nofollow">
   		<img alt="Yusif Hasanovs's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width: 100%;">
-	</a>
-</div>
-<div align="center">
-	<a href="https://twitter.com/YusifHasanov12" rel="nofollow">
-  		<img alt="Yusif Hasannov's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" style="max-width:100%;">
-	</a>
-	<a href="https://www.linkedin.com/in/yusif-hasanov/" rel="nofollow">
-  		<img alt="Yusif Hasanov's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width:100%;">
 	</a>
 </div>
 </p> 
@@ -74,4 +64,3 @@
 ## <img src="https://user-images.githubusercontent.com/82110564/189553856-2e7f8f30-80b4-484f-bfaa-9e5eb10f24e5.gif" width="30">About Me
 
 My name is Yusif Hasanov. I'm the Full-stack web developer. 
-
