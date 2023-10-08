@@ -38,7 +38,7 @@
     <img src="https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=.net&logoColor=white">
     <img src="https://img.shields.io/badge/JPA-007396.svg?style=for-the-badge&logo=jpa&logoColor=white">
     <img src="https://img.shields.io/badge/EF%20Core-512BD4.svg?style=for-the-badge&logo=.net&logoColor=white">
-    <img src="https://img.shields.io/badge/MVC-512BD4.svg?style=for-the-badge&logo=.net&logoColor=white">
+    <img src="https://img.shields.io/badge/Blazor-512BD4.svg?style=for-the-badge&logo=blazor&logoColor=white">
     <img src="https://img.shields.io/badge/Spring%20MVC-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
     <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white>
     <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
